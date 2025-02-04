@@ -9,3 +9,16 @@
     padding: 0px 8px;
     font-size: 24px;
 }
+
+/* .button{
+    display: flex;
+} */
+
+button{
+    width: 160px;
+    background-color: blue;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 12px;
+}
